@@ -14,9 +14,11 @@ I build practical automation and data-processing workflows using:
 - Data transformation and reporting
 - Business process automation
 
-## Featured Project
+## Featured Projects
 
-### n8n Sales Data Pipeline
+## Featured Projects
+
+### 1. n8n Sales Data Pipeline
 
 End-to-end sales data processing and reporting workflow built with n8n.
 
@@ -30,9 +32,27 @@ The workflow:
 - generates a CSV report
 - sends processed data through API endpoints
 
-This project demonstrates API integration, branching, data transformation, aggregation, binary file handling, and automated reporting.
-
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-sales-data-pipeline)
+
+---
+
+### 2. n8n Automated Reporting Workflow
+
+Automated data processing and reporting workflow built with n8n.
+
+The workflow:
+
+- retrieves order and customer data
+- merges multiple data sources
+- calculates order totals
+- sorts and filters records
+- creates regional summaries
+- generates CSV reports
+- prepares Discord reporting messages
+- sends reports to Discord
+- uploads generated files to an external endpoint
+
+➡️ [View the project](https://github.com/inna-siliaieva/n8n-automated-reporting-workflow)
 
 ## Currently Learning
 
