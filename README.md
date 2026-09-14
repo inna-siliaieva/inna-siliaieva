@@ -14,7 +14,6 @@ I build practical automation and data-processing workflows using:
 - Data transformation and reporting
 - Business process automation
 
-## Featured Projects
 
 ## Featured Projects
 
