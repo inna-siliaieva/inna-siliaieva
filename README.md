@@ -75,6 +75,27 @@ The workflow:
 
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-api-integration-pipeline)
 
+### 4. Excel Sales Data Analysis & Reporting
+
+Excel portfolio project focused on practical data processing, analysis, reporting, and visualization.
+
+The project includes:
+
+- cleaning and organizing sales data
+- working with Excel Tables
+- using `IF` and `SUMIF` formulas
+- calculating sales commissions
+- regional sales analysis
+- monthly performance analysis
+- payment-method analysis
+- conditional formatting
+- summary reporting
+- charts and data visualization
+
+**Key skills:** Excel, data cleaning, formulas, reporting, sales analysis, data visualization.
+
+➡️ [View the project](https://github.com/inna-siliaieva/excel-sales-data-analysis)
+
 ## Currently Learning
 
 - Advanced n8n workflow automation
