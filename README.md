@@ -53,6 +53,28 @@ The workflow:
 
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-automated-reporting-workflow)
 
+### 3. n8n API Integration Pipeline
+
+API integration workflow built in n8n to combine data from multiple sources and process it through business rules.
+
+The workflow:
+
+- retrieves paginated order data from an API
+- retrieves customer data from a second API
+- merges orders with customer information
+- aggregates enriched order data
+- filters records based on order status
+- routes enterprise customers through priority processing
+- routes other customers by region
+- processes priority orders in controlled batches
+- uses automatic retry logic for temporary API failures
+- continues through a fallback branch when the customer API fails
+- finalizes the pipeline with a confirmation request
+
+**Key concepts:** REST API integration, pagination, data merging, conditional routing, batch processing, retry logic, and error handling.
+
+➡️ [View the project](https://github.com/inna-siliaieva/n8n-api-integration-pipeline)
+
 ## Currently Learning
 
 - Advanced n8n workflow automation
