@@ -75,7 +75,26 @@ The workflow:
 
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-api-integration-pipeline)
 
-### 4. Excel Sales Data Analysis & Reporting
+### 4. AI-Powered Customer Feedback Pipeline
+
+AI-powered n8n workflow for customer feedback classification and personalized response generation.
+
+The workflow:
+
+- retrieves customer feedback from an API
+- classifies feedback by sentiment, topic, urgency, and key issue
+- converts AI output into structured JSON
+- uses a Structured Output Parser for reliable results
+- applies retry logic for AI processing
+- uses different AI models for classification and response generation
+- generates a context-aware customer reply
+- sends the processed result to an external API endpoint
+
+**Key concepts:** n8n, AI workflow automation, LLM chains, structured outputs, prompt engineering, API integration, JSON parsing, retry logic.
+
+➡️ [View the project](https://github.com/inna-siliaieva/AI-Customer-Feedback-Pipeline)
+
+### 5. Excel Sales Data Analysis & Reporting
 
 Excel portfolio project focused on practical data processing, analysis, reporting, and visualization.
 
