@@ -94,7 +94,28 @@ The workflow:
 
 ➡️ [View the project](https://github.com/inna-siliaieva/AI-Customer-Feedback-Pipeline)
 
-### 5. Excel Sales Data Analysis & Reporting
+### 5. AI Customer Service Agent with Tools
+
+AI-powered n8n customer service agent that dynamically selects the appropriate tool based on the user's request.
+
+The workflow:
+
+- receives customer requests through an n8n chat interface
+- uses an AI Agent to analyze user intent
+- dynamically selects between multiple HTTP tools
+- retrieves order status information
+- retrieves customer account and subscription details
+- retrieves product features and pricing
+- extracts request parameters directly from natural-language input
+- uses Simple Memory to preserve conversation context
+- avoids repeated requests for information already provided by the user
+- integrates Groq as the AI model
+
+Key concepts: n8n, AI Agents, tool selection, HTTP Request Tools, REST API integration, dynamic parameters, conversation memory, prompt engineering, Groq.
+
+➡️ [View the project](https://github.com/inna-siliaieva/AI-Customer-Service-Agent-n8n)
+
+### 6. Excel Sales Data Analysis & Reporting
 
 Excel portfolio project focused on practical data processing, analysis, reporting, and visualization.
 
