@@ -75,7 +75,26 @@ The workflow:
 
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-api-integration-pipeline)
 
-### 4. AI-Powered Customer Feedback Pipeline
+### 4. Webhook-Driven Order Processing System
+
+Modular n8n workflow for secure order intake, validation, storage, duplicate prevention, and reusable order processing.
+
+The workflow:
+
+- receives orders through a webhook
+- validates required order fields
+- prevents duplicate records
+- stores orders in an n8n Data Table
+- processes orders through a reusable sub-workflow
+- calls an external API for order processing
+- updates order status and processing timestamps
+- returns structured success or validation responses
+
+**Key concepts:** n8n, webhooks, sub-workflows, Data Tables, API integration, validation, duplicate prevention, workflow orchestration.
+
+➡️ [View the project](https://github.com/inna-siliaieva/n8n-webhook-order-processing)
+
+### 5. AI-Powered Customer Feedback Pipeline
 
 AI-powered n8n workflow for customer feedback classification and personalized response generation.
 
@@ -94,7 +113,7 @@ The workflow:
 
 ➡️ [View the project](https://github.com/inna-siliaieva/AI-Customer-Feedback-Pipeline)
 
-### 5. AI Customer Service Agent with Tools
+### 6. AI Customer Service Agent with Tools
 
 AI-powered n8n customer service agent that dynamically selects the appropriate tool based on the user's request.
 
@@ -115,7 +134,7 @@ Key concepts: n8n, AI Agents, tool selection, HTTP Request Tools, REST API integ
 
 ➡️ [View the project](https://github.com/inna-siliaieva/AI-Customer-Service-Agent-n8n)
 
-### 6. Excel Sales Data Analysis & Reporting
+### 7. Excel Sales Data Analysis & Reporting
 
 Excel portfolio project focused on practical data processing, analysis, reporting, and visualization.
 
