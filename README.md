@@ -1,23 +1,64 @@
 # Hi, I'm Inna 👋
 
-### Junior Automation & Data Specialist
+## Automation & Data Specialist
 
-Focused on practical workflow automation, data processing, and business process optimization.
+I build practical automation solutions for business processes, data workflows, API integrations, reporting, and AI-powered tasks.
 
-I build practical automation and data-processing workflows using:
+My focus is on creating clear, reliable, and reusable workflows that reduce manual work and improve everyday business operations.
 
-- n8n
-- Excel
+### Core Skills
+
+- n8n workflow automation
+- REST API integrations
+- Webhooks and API endpoints
+- AI Agents and LLM-powered workflows
+- Tool-based AI Agents
+- Structured AI outputs
+- Data transformation and validation
+- Conditional routing and business logic
+- Pagination and batch processing
+- Retry logic and error handling
+- Reusable sub-workflows
+- n8n Data Tables
+- Excel and Google Sheets automation
 - Python
 - SQL
-- API integrations
-- Data transformation and reporting
+- Automated reporting
 - Business process automation
 
+---
 
-## Featured Projects
+## n8n Automation
 
-### 1. n8n Sales Data Pipeline
+Completed the **n8n Foundations learning path** and built practical workflows covering both traditional business automation and AI-powered processes.
+
+### n8n Experience
+
+- REST API integrations
+- Webhook-driven workflows
+- Multiple API data sources
+- Data merging and transformation
+- Data validation
+- Pagination
+- Batch processing
+- Conditional routing
+- Error handling and retry logic
+- Data Tables
+- Sub-workflows
+- Structured JSON processing
+- AI-powered classification
+- AI Agents
+- Tool selection by AI Agents
+- Conversation memory
+- LLM integrations
+- Prompt engineering
+- Automated reporting
+
+---
+
+# Featured Projects
+
+## 1. n8n Sales Data Pipeline
 
 End-to-end sales data processing and reporting workflow built with n8n.
 
@@ -31,11 +72,12 @@ The workflow:
 - generates a CSV report
 - sends processed data through API endpoints
 
+
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-sales-data-pipeline)
 
 ---
 
-### 2. n8n Automated Reporting Workflow
+## 2. n8n Automated Reporting Workflow
 
 Automated data processing and reporting workflow built with n8n.
 
@@ -47,15 +89,17 @@ The workflow:
 - sorts and filters records
 - creates regional summaries
 - generates CSV reports
-- prepares Discord reporting messages
-- sends reports to Discord
-- uploads generated files to an external endpoint
+- prepares automated reporting messages
+- sends reports to external services
+- uploads generated files through API endpoints
 
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-automated-reporting-workflow)
 
-### 3. n8n API Integration Pipeline
+---
 
-API integration workflow built in n8n to combine data from multiple sources and process it through business rules.
+## 3. n8n API Integration Pipeline
+
+API integration workflow designed to combine data from multiple sources and process it through business rules.
 
 The workflow:
 
@@ -68,12 +112,15 @@ The workflow:
 - routes other customers by region
 - processes priority orders in controlled batches
 - uses automatic retry logic for temporary API failures
-- continues through a fallback branch when the customer API fails
-- finalizes the pipeline with a confirmation request
+- continues through a fallback branch if an external API fails
+- completes the pipeline with a confirmation request
 
-**Key concepts:** REST API integration, pagination, data merging, conditional routing, batch processing, retry logic, and error handling.
+**Key concepts:** REST APIs, pagination, data merging, conditional routing, batch processing, retry logic, and error handling.
+
 
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-api-integration-pipeline)
+
+---
 
 ### 4. Webhook-Driven Order Processing System
 
@@ -94,6 +141,8 @@ The workflow:
 
 ➡️ [View the project](https://github.com/inna-siliaieva/n8n-webhook-order-processing)
 
+---
+
 ### 5. AI-Powered Customer Feedback Pipeline
 
 AI-powered n8n workflow for customer feedback classification and personalized response generation.
@@ -112,6 +161,8 @@ The workflow:
 **Key concepts:** n8n, AI workflow automation, LLM chains, structured outputs, prompt engineering, API integration, JSON parsing, retry logic.
 
 ➡️ [View the project](https://github.com/inna-siliaieva/AI-Customer-Feedback-Pipeline)
+
+---
 
 ### 6. AI Customer Service Agent with Tools
 
@@ -134,6 +185,8 @@ Key concepts: n8n, AI Agents, tool selection, HTTP Request Tools, REST API integ
 
 ➡️ [View the project](https://github.com/inna-siliaieva/AI-Customer-Service-Agent-n8n)
 
+---
+
 ### 7. Excel Sales Data Analysis & Reporting
 
 Excel portfolio project focused on practical data processing, analysis, reporting, and visualization.
@@ -153,20 +206,48 @@ The project includes:
 
 **Key skills:** Excel, data cleaning, formulas, reporting, sales analysis, data visualization.
 
+
 ➡️ [View the project](https://github.com/inna-siliaieva/excel-sales-data-analysis)
 
-## Currently Learning
+---
 
-- Advanced n8n workflow automation
-- AI agents and AI-powered workflows
-- Data analytics automation
-- Business process automation
+# Portfolio Development
 
-## Tools & Technologies
+I am currently expanding my portfolio with production-style business automation projects, including:
 
-`n8n` `Excel` `Python` `SQL` `APIs` `JSON` `CSV` `Automation`
+- AI document and invoice processing
+- company knowledge assistants with RAG
+- AI-powered email processing
+- lead qualification and CRM automation
+- Telegram-based business assistants
+- office and reporting automation
 
-## Contact
+---
+
+# Tools & Technologies
+
+`n8n` `Excel` `Google Sheets` `Python` `SQL` `REST APIs` `Webhooks` `JSON` `CSV` `AI Agents` `LLMs` `Data Automation` `Business Process Automation`
+
+---
+
+# What I Build
+
+I am particularly interested in practical automation for small and medium-sized businesses, including:
+
+- office process automation
+- document processing
+- automated reporting
+- data collection and transformation
+- Excel and Google Sheets workflows
+- API integrations
+- customer service automation
+- AI-assisted business processes
+- internal business tools
+
+---
+
+# Contact
 
 - GitHub: [inna-siliaieva](https://github.com/inna-siliaieva)
 - LinkedIn: coming soon
+
