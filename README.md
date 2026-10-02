@@ -188,9 +188,21 @@ Key concepts: n8n, AI Agents, tool selection, HTTP Request Tools, REST API integ
 ---
 
 ### 7. AI Document & Invoice Processing Automation
-AI-powered n8n workflow for automated PDF invoice processing using Google Gemini. Extracts structured invoice data, validates required fields, detects duplicates, and stores approved records automatically.
 
-🔗 [View Project](https://github.com/inna-siliaieva/n8n-ai-invoice-processing-automation)
+AI-powered n8n workflow for automated PDF invoice processing using Google Gemini.
+
+The workflow:
+
+- receives PDF invoices through an n8n form
+- extracts invoice text and structured data using Google Gemini
+- validates required fields and invoice amounts
+- checks invoice numbers to prevent duplicate processing
+- stores validated invoices automatically in an n8n Data Table
+- returns separate statuses for saved, duplicate, and invalid invoices
+
+Key concepts: n8n, Google Gemini, AI document processing, PDF extraction, structured output, data validation, duplicate detection, business automation.
+
+🔗 [View the project](https://github.com/inna-siliaieva/n8n-ai-invoice-processing-automation)
 
 ---
 
