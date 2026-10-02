@@ -187,7 +187,14 @@ Key concepts: n8n, AI Agents, tool selection, HTTP Request Tools, REST API integ
 
 ---
 
-### 7. Excel Sales Data Analysis & Reporting
+### 7. AI Document & Invoice Processing Automation
+AI-powered n8n workflow for automated PDF invoice processing using Google Gemini. Extracts structured invoice data, validates required fields, detects duplicates, and stores approved records automatically.
+
+🔗 [View Project](https://github.com/inna-siliaieva/n8n-ai-invoice-processing-automation)
+
+---
+
+### 8. Excel Sales Data Analysis & Reporting
 
 Excel portfolio project focused on practical data processing, analysis, reporting, and visualization.
 
