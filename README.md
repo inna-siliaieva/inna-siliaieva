@@ -206,7 +206,26 @@ Key concepts: n8n, Google Gemini, AI document processing, PDF extraction, struct
 
 ---
 
-### 8. Excel Sales Data Analysis & Reporting
+### 8. AI Executive & Task Management Agent
+
+AI-powered business assistant built with n8n and Groq API for employee lookup, task monitoring, and task status management through natural-language interaction.
+
+**The system:**
+- retrieves employee information by ID or name
+- searches and filters company tasks by employee, status, priority, and due date
+- identifies overdue tasks based on specified deadlines
+- updates task statuses, including reopening completed tasks
+- handles nonexistent task IDs with clear error responses
+- supports multilingual business requests
+- integrates an AI agent with three dedicated n8n workflows and structured Data Tables
+
+**Key concepts:** n8n, AI Agents, Groq API, GPT OSS 20B, workflow orchestration, task management, employee lookup, data filtering, error handling, business process automation.
+
+🔗 [View the project](https://github.com/inna-siliaieva/ai-executive-task-management-agent)
+
+---
+
+### 9. Excel Sales Data Analysis & Reporting
 
 Excel portfolio project focused on practical data processing, analysis, reporting, and visualization.
 
