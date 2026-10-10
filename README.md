@@ -261,16 +261,18 @@ The project includes:
 
 ---
 
-# Portfolio Development
+## Automation Areas
 
-I am currently expanding my portfolio with production-style business automation projects, including:
+I focus on practical business automation solutions that reduce manual work, improve process reliability, and simplify everyday operations.
 
-- AI document and invoice processing
-- company knowledge assistants with RAG
-- AI-powered email processing
-- lead qualification and CRM automation
-- Telegram-based business assistants
-- office and reporting automation
+- Office Process Automation
+- Document Workflows
+- Reporting Automation
+- API Integrations
+- Business Notifications
+- Approval Workflows
+- Data Processing
+- AI-Assisted Business Processes
 
 ---
 
