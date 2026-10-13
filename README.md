@@ -71,7 +71,24 @@ End-to-end n8n solution for invoice validation, duplicate detection, approval ro
 
 ---
 
-### 2. n8n Sales Data Pipeline
+### 2.  AI Business Document Management
+
+Automated n8n workflow for intelligent business document processing.
+
+- Receives PDF documents from Gmail
+- Extracts document text
+- Classifies documents with Google Gemini
+- Extracts structured metadata
+- Generates standardized file names
+- Routes files to the correct Google Drive folders
+- Registers documents in Google Sheets
+- Sends unclassified documents to `Needs Review`
+
+[View Project](https://github.com/inna-siliaieva/business-document-management-automation)
+
+---
+
+### 3. n8n Sales Data Pipeline
 
 End-to-end sales data processing and reporting workflow built with n8n.
 
@@ -90,7 +107,7 @@ The workflow:
 
 ---
 
-### 3. n8n Automated Reporting Workflow
+### 4. n8n Automated Reporting Workflow
 
 Automated data processing and reporting workflow built with n8n.
 
@@ -110,7 +127,7 @@ The workflow:
 
 ---
 
-### 4. n8n API Integration Pipeline
+### 5. n8n API Integration Pipeline
 
 API integration workflow designed to combine data from multiple sources and process it through business rules.
 
@@ -135,7 +152,7 @@ The workflow:
 
 ---
 
-### 5. Webhook-Driven Order Processing System
+### 6. Webhook-Driven Order Processing System
 
 Modular n8n workflow for secure order intake, validation, storage, duplicate prevention, and reusable order processing.
 
@@ -156,7 +173,7 @@ The workflow:
 
 ---
 
-### 6. Construction Daily Report Automation
+### 7. Construction Daily Report Automation
 Automates daily construction site reporting with n8n, Google Sheets, and Telegram.
 
 - Collects structured site reports through an n8n form
@@ -168,7 +185,7 @@ Automates daily construction site reporting with n8n, Google Sheets, and Telegra
 
 ---
 
-### 7. AI-Powered Customer Feedback Pipeline
+### 8. AI-Powered Customer Feedback Pipeline
 
 AI-powered n8n workflow for customer feedback classification and personalized response generation.
 
@@ -189,7 +206,7 @@ The workflow:
 
 ---
 
-### 8. AI Customer Service Agent with Tools
+### 9. AI Customer Service Agent with Tools
 
 AI-powered n8n customer service agent that dynamically selects the appropriate tool based on the user's request.
 
@@ -212,7 +229,7 @@ Key concepts: n8n, AI Agents, tool selection, HTTP Request Tools, REST API integ
 
 ---
 
-### 9. AI Document & Invoice Processing Automation
+### 10. AI Document & Invoice Processing Automation
 
 AI-powered n8n workflow for automated PDF invoice processing using Google Gemini.
 
@@ -231,7 +248,7 @@ Key concepts: n8n, Google Gemini, AI document processing, PDF extraction, struct
 
 ---
 
-### 10. AI Executive & Task Management Agent
+### 11. AI Executive & Task Management Agent
 
 AI-powered business assistant built with n8n and Groq API for employee lookup, task monitoring, and task status management through natural-language interaction.
 
@@ -250,7 +267,7 @@ AI-powered business assistant built with n8n and Groq API for employee lookup, t
 
 ---
 
-### 11. Excel Sales Data Analysis & Reporting
+### 12. Excel Sales Data Analysis & Reporting
 
 Excel portfolio project focused on practical data processing, analysis, reporting, and visualization.
 
