@@ -100,7 +100,7 @@ Automated n8n workflow for construction budget monitoring, cost analysis, risk c
 - Sends severity-based Telegram alerts
 - Generates a consolidated daily management summary
 
-[View Project](YOUR_PROJECT_LINK)
+[View Project](https://github.com/inna-siliaieva/construction-cost-budget-control)
 
 ---
 
