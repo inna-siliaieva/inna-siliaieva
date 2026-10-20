@@ -1,5 +1,7 @@
 # Hi, I'm Inna 👋
 
+[🌐 Portfolio Website](https://inna-siliaieva.github.io/business-operations-automation/) | [LinkedIn](https://www.linkedin.com/in/inna-siliaieva/) | [✉️ Email](mailto:inna.digital.services@gmail.com)
+
 ## Automation & Data Specialist
 
 I build practical automation solutions for business processes, data workflows, API integrations, reporting, and AI-powered tasks.
